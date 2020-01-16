@@ -4,8 +4,8 @@ class Database{
     // specify your own database credentials
     private $host = "10.160.0.3";
     private $db_name = "PHPWebAppTutorial";
-    private $username = "root";
-    private $password = "";
+    private $username = "vikrant";
+    private $password = "verma";
     public $conn;
  
     // get the database connection
