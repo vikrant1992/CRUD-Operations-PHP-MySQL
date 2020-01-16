@@ -2,7 +2,7 @@
 class Database{
  
     // specify your own database credentials
-    private $host = "localhost";
+    private $host = "10.160.0.3";
     private $db_name = "PHPWebAppTutorial";
     private $username = "root";
     private $password = "";
